@@ -7,8 +7,8 @@
 특정 인스턴스와는 연관되지 않기에 어떤 인스턴스 변수값도, 메소드도 사용할 수 없음
 
 #### **정적 변수**
+![image](https://github.com/GDSC-SWU/2023-JAVA-Study/assets/97941141/e88f3e8e-c17e-40af-a08c-28b0e2ed0421)
 
-[##_Image|kage@DZkfZ/btsvDk7DsXd/nivW8W9LRETOtSBdtfwZ1K/img.jpg|CDM|1.3|{"originWidth":503,"originHeight":356,"style":"alignLeft"}_##]
 
 해당 클래스에 속하는 모든 객체에서 공유하는 변수
 
