@@ -20,6 +20,7 @@ final로 지정한 변수값은 값을 한번 대입하면 바꿀 수 없어 변
 
 확장, 오버라이드 불가능
 
+
 #### **Math 클래스**
 
 해당 클래스에 들어있는 메소드에서는 인스턴스 변수의 값을 전혀 사용하지 않음
@@ -36,6 +37,7 @@ final로 지정한 변수값은 값을 한번 대입하면 바꿀 수 없어 변
 
 \- max(): 두 인자 중 더 큰 값 리턴
 
+
 #### **래퍼**
 
 원시 형식을 객체처럼 다뤄야 할 때 사용하는 방법
@@ -50,6 +52,7 @@ Boolean, Character, Byte, Short, Integer, Long... 등이 있다.
 
 ex) Integer.parseInt("2") 는 2의 값을 리턴한다.
 
+
 #### **오토박싱**
 
 원시값과 객체 사이의 경계를 없애는 것
@@ -57,6 +60,7 @@ ex) Integer.parseInt("2") 는 2의 값을 리턴한다.
 자동 형변환 기능으로, 굳이 어떤 형으로 변환하겠다는 코드를 작성하지 않아도 알아서 형변환해주는 것을 의미한다.
 
 ex) 메소드 인자, 리턴값, 부울 표현식, 수에 대한 연산, 대입 등에서 자주 일어난다.
+
 
 #### **포매팅**
 
@@ -75,6 +79,7 @@ String s = String.format("%, d", 100000000);
 'e' '\\u0065' Requires the output to be formatted using computerized scientific notation. The localization algorithm is applied. The formatting of the magnitude m depends upon its value. If m is NaN or infinite, the literal strings "NaN" or "Infinity", resp
 
 docs.oracle.com](https://docs.oracle.com/javase/8/docs/api/java/util/Formatter.html)
+
 
 #### **날짜 표현**
 
